@@ -1,12 +1,12 @@
 <h1 align="center">Hola 👋, mi nombre es Roly Ochoa</h1>
-<h3 align="center">Soy Full-Stack Developer y me apasiona la programacion</h3>
+<h3 align="center">Soy Full-Stack Developer y me apasiona la programación</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kachamozo&label=Profile%20views&color=0e75b6&style=flat" alt="kachamozo" /> </p>
 
-- 🔭 Actualmente estoy trabajando en un proyecto E-commerce de venta de productos electronicos [ACMEtronics](https://github.com/kachamozo/ACMEtronics-front)
-- El proyecto consiste en una base de datos postgres, el back esta hecho con node.js y express, el front esta hecho en react y redux, tiene protecion de rutas, tenemos autenticacion con Auth0 y metodo de pago Stripe, y algunas otras funcionalidades.
+- 🔭 El ultimo mes trabajé en un proyecto E-commerce de venta de productos electrónicos [ACMEtronics](https://github.com/kachamozo/ACMEtronics-front)
+- 👨‍💻 El proyecto consiste en una base de datos postgres para el registro de usuarios, productos y sus respectivas relaciones, el back fue creado con node.js y express, el código del front está hecho en react y redux, tiene proteción de rutas, autenticacion con Auth0 y métodos de pago con Stripe; también tiene otras funcionalidades.
 
-- 🌱 Estoy aprendiendo **TypeScript**
+- 🌱 Actualmente estoy aprendiendo **TypeScript**
 
 - 👯 Estas las tegnologias que manejo **FullStack Developer | Javascript | HTML | CSS | React | Redux | Node.Js | Express | Sequalize | PostgreSQL | MongoDb | Python | Linux**
 
