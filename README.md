@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kachamozo&label=Profile%20views&color=0e75b6&style=flat" alt="kachamozo" /> </p>
 
-- 🔭 Actualmente estoy trabajando en [ACMEtronics](https://github.com/kachamozo/ACMEtronics-front)
+- 🔭 Actualmente estoy trabajando en un proyecto E-commerce de venta de productos electronicos [ACMEtronics](https://github.com/kachamozo/ACMEtronics-front)
+- El proyecto consiste en una base de datos postgres, el back esta hecho con node.js y express, el front esta hecho en react y redux, tiene protecion de rutas, tenemos autenticacion con Auth0 y metodo de pago Stripe, y algunas otras funcionalidades.
 
 - 🌱 Estoy aprendiendo **TypeScript**
 
