@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kachamozo&label=Profile%20views&color=0e75b6&style=flat" alt="kachamozo" /> </p>
 
-- 🔭 El ultimo mes trabajé en un proyecto E-commerce de venta de productos electrónicos [ACMEtronics](https://github.com/kachamozo/ACMEtronics-front)
+- 🔭 El ultimo mes trabajé en un proyecto E-commerce de venta de productos electrónicos [ACMEtronics](https://acmetronics.netlify.app/)
 - 👨‍💻 El proyecto consiste en una base de datos postgres para el registro de usuarios, productos y sus respectivas relaciones, el back fue creado con node.js y express, el código del front está hecho en react y redux, tiene proteción de rutas, autenticacion con Auth0 y métodos de pago con Stripe; también tiene otras funcionalidades.
 
 - 🌱 Actualmente estoy aprendiendo **TypeScript**
 
 - 👯 Estas las tegnologias que manejo **FullStack Developer | Javascript | HTML | CSS | React | Redux | Node.Js | Express | Sequalize | PostgreSQL | MongoDb | Python | Linux**
 
-- 🤝 Siempre estoy buscando nuevos retos [Desafio codementor](https://acmetronics.netlify.app/)
+- 🤝 Siempre estoy buscando nuevos retos [Desafio codementor](https://e-commerce-tailwind-react.netlify.app)
 
 - 📫 Puedes contactarme **cachamocito@gmail.com**
 
