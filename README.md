@@ -10,7 +10,7 @@
 
 - 👯 Estas las tegnologias que manejo **FullStack Developer | Javascript | HTML | CSS | React | Redux | Node.Js | Express | Sequalize | PostgreSQL | MongoDb | Python | Linux**
 
-- 🤝 Siempre estoy buscando nuevos retos [Desafio codementor](https://github.com/kachamozo/E-ecommerce-Product-Page-Tailwind-React-Desafio-Frontend-Mentor)
+- 🤝 Siempre estoy buscando nuevos retos [Desafio codementor](https://acmetronics.netlify.app/)
 
 - 📫 Puedes contactarme **cachamocito@gmail.com**
 
